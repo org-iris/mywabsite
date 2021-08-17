@@ -6,4 +6,4 @@ now comment1
 
 now comment2
 
-now comment3
+delete the comment3 that was in this line will cause conflict
