@@ -6,4 +6,8 @@ now comment1
 
 now comment2
 
-new start
+stashing
+
+update in stage
+
+new line
